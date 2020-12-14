@@ -1,7 +1,7 @@
 <h3> About Me <img src=https://www.nicepng.com/png/detail/152-1529091_happy-smile-png-smiley-face-icon-png.png width="32" weight="32"></h3>
 
 - 🤔 &nbsp; Security enthusiast focused on Offensive Sec.
-- 🎓 &nbsp; Graduated in Information Security at FIAP-SP
+- 🎓 &nbsp; Graduated in Information Security at FIAP-SP.
 - 💼 &nbsp; Working as Infrastructure Analyst looking for an opportunity to work with Offsec.
 
 <br/>
