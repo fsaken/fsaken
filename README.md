@@ -1,4 +1,4 @@
-<h3> About Me <img src=https://www.nicepng.com/png/detail/152-1529091_happy-smile-png-smiley-face-icon-png.png width="32" weight="32"></h3>
+<h3> About Me <img src=https://assets.stickpng.com/images/587389d8f3a71010b5e8ef4b.png width="32" weight="32"></h3>
 
 - 🤔 &nbsp; Security enthusiast focused on Offensive Sec.
 - 🎓 &nbsp; Graduated in Information Security at FIAP-SP.
