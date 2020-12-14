@@ -1,4 +1,4 @@
-<h3> About Me <img src=https://camo.githubusercontent.com/6e19c220ce60cdf7cd955fafad574fcc67f658d62597e238357b8acd579aa61a/68747470733a2f2f7777772e6e696365706e672e636f6d2f706e672f64657461696c2f3135322d313532393039315f68617070792d736d696c652d706e672d736d696c65792d666163652d69636f6e2d706e672e706e67 width="32" weight="32"></h3>
+<h3> About Me <img src=https://github.com/fsaken/fsaken/blob/main/bigas.png width="32" weight="32"></h3>
 
 - 🤔 &nbsp; Security enthusiast focused on Offensive Sec.
 - 🎓 &nbsp; Graduated in Information Security at FIAP-SP.
